@@ -1,12 +1,2 @@
 #starting
-print('this is a start')<<<<<<< HEAD
 print('this is a start')
-=======
-<<<<<<< Updated upstream
-=======
-print('this is a start')
-print('we are testing')
->>>>>>> Stashed changes
-'now another change''now another changeeee'
-'i want to add something myself'
->>>>>>> first-branch
